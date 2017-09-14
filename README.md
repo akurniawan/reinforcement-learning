@@ -1,2 +1,2 @@
-# rl-sutton
-Code Implementation from Reinforcement Learning: The Intro - Sutton
+# reinforcement-learning
+Base repository for my playground in reinforcement learning
